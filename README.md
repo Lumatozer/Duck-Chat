@@ -16,8 +16,8 @@ The front end client app will be released.
 
 You can connect to the server using the app and a key phrase.
 
-For public uses our key will be 'public'
+For public users to connect our key will be 'public'.
 
-In case the key doesnt work it means the servers are in private mode.
+In case the key doesnt work it means the servers are in private mode or under maintenance.
 
 Regards Lumatozer.
