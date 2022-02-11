@@ -16,7 +16,7 @@ The front end client app will be released.
 
 You can connect to the server using the app and a key phrase.
 
-For public users to connect our key will be 'public'.
+For public users to connect the key will be available at http://miplzqefusqxmgxoc6fzen6ijrusxv4tm7nw4mxmc4lehq57bvh5rsad.onion/.
 
 In case the key doesnt work it means the servers are in private mode or under maintenance.
 
